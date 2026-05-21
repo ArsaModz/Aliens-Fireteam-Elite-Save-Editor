@@ -1,4 +1,4 @@
-# Aliens: Fireteam Elite — Save Editor (PS4 / PC)
+# Aliens: Fireteam Elite Save Editor (PS4/PC)
 
 A save editor for *Aliens: Fireteam Elite* on PS4 and PC. Built in C# and WPF (.NET), this tool provides a comprehensive suite for editing character progression, weapons, attachments, appearances, emotes, intel, achievements, resources, and more.
 
@@ -98,11 +98,3 @@ Seamlessly convert save files between platforms:
 1. **Open:** Click *Open PS4 Save*, *Open PC Save*, or drag a `char.sav` / `ue4savegame.ps4.sav` file into the dialog.
 2. **Edit:** Navigate the tabs to modify stats, inventory, weapons, appearances, and more.
 3. **Save:** Click **Save File** to write changes back. The file is re-encoded automatically.
-
----
-
-## 🛠️ Requirements
-
-- Windows (WPF/.NET)
-- [.NET Framework 4.7.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472) or later
-- [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json/)
