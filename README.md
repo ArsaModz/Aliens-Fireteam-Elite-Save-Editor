@@ -1,5 +1,5 @@
 # Aliens: Fireteam Elite Save Editor (PS4/PC)
-A free, open-source save editor for *Aliens: Fireteam Elite* on PS4 and PC. Built with C# and WPF (.NET), it handles save decryption and re-encryption automatically so you always get a valid save file.
+A free, save editor for *Aliens: Fireteam Elite* on PS4 and PC. Built with C# and WPF (.NET), it handles save decryption and re-encryption automatically so you always get a valid save file.
 
 ## 🚀 Key Features
 
